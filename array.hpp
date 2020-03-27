@@ -8,7 +8,6 @@
 #include "tests.hpp"
 
 ////////////////////DECLARATION QUICK INCLUDED IN SORT.HPP/////////////
-/////////because  array.hpp is included faster??? idk /////////////////
 template <typename Var>
 void quick_sort(Var *array, int start_index, int end_index);
 ///////////////////////////////////////////////////////////////////////
